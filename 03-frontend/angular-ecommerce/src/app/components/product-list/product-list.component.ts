@@ -6,7 +6,8 @@ type NewType = OnInit;
 
 @Component({
   selector: 'app-product-list',
-  templateUrl: './product-list-table.component.html',
+  templateUrl: './product-list-grid.component.html',
+  // templateUrl: './product-list-table.component.html',
   // templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css'],
 })
